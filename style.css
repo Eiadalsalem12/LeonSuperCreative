@@ -112,7 +112,7 @@
 /* Start Landing Section  */
 .Landing {
   background-attachment: fixed;
-  background-image: url(/wihte_mountine.jpg);
+  background-image: url(./wihte_mountine.jpg);
   background-size: cover;
   height: 750px;
   position: relative;
